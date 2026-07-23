@@ -46,7 +46,6 @@ loan-default-project/
 ├── notebooks/
 │   └── loan_default_risk_analysis.ipynb   # full analysis, fully executed
 ├── figures/                          # all charts as standalone PNGs
-├── scripts/                          # modular .py version of the same pipeline
 ├── README.md
 └── requirements.txt
 ```
